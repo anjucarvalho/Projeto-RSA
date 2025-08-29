@@ -1,2 +1,2 @@
 # Projeto-RSA
-Projeto acadêmico sobre Criptografia
+Projeto acadêmico em grupo sobre Criptografia
